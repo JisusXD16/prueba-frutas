@@ -1,0 +1,7 @@
+setup.py
+Frutas.egg-info/PKG-INFO
+Frutas.egg-info/SOURCES.txt
+Frutas.egg-info/dependency_links.txt
+Frutas.egg-info/top_level.txt
+packet/__init__.py
+packet/principal.py
